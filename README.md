@@ -8,4 +8,4 @@ In this method we basically ocus on features of the items themselves. Here we re
 
 ## 2. Collaborative Filtering Methods: 
 Collaborative filtering methods are based on collecting and analyzing a large amount of information on user behaviors, activities or preferences and predicting what users will like based on their similarity to other users. There are many types of Collaborative Filtering Methods but we prefer to use Matrix Factorization Technique.
-   **2.1 Matrix factorization algorithms:** This algorithim work by analyzing the user-book rating matrix to identify the relationship between different books. 
+**2.1 Matrix factorization algorithms:** This algorithim work by analyzing the user-book rating matrix to identify the relationship between different books. 

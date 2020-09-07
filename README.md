@@ -1,5 +1,5 @@
 # Books-Recommendation-System
-In this project, we make Books reccomendation system using Content based and Collaborative Filteringe techniques.
+In this project, we make Books recommendation system using Content based and Collaborative Filteringe techniques.
 Dataset: https://www.kaggle.com/zygmunt/goodbooks-10k
 
 There are two approaches for the problem.
